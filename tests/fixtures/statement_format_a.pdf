@@ -1,0 +1,55 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 1627 >>
+stream
+BT /F2 16 Tf 1 0 0 1 50 790 Tm (REVOLUT) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 777 Tm (Statement Period: 01/10/2023 - 31/10/2023) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 764 Tm (Account Holder: Sample Customer) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 751 Tm (Currency: GBP) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 725 Tm (Date        Description                   Amount) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 712 Tm (01/10/2023  TESCO STORES                  -45.50) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 699 Tm (03/10/2023  UBER TRIP                     -18.20) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 686 Tm (05/10/2023  SALARY                       1500.00) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 673 Tm (08/10/2023  NETFLIX                       -15.99) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 660 Tm (09/10/2023  UNKNOWN COFFEE SHOP            -4.50) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 647 Tm (10/10/2023  SAINSBURYS SUPERMARKET        -62.35) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 634 Tm (12/10/2023  TFL TRAVEL CHARGE             -25.00) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 621 Tm (15/10/2023  BRITISH GAS                   -84.20) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 608 Tm (17/10/2023  LIDL GB                       -27.40) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 595 Tm (19/10/2023  THAMES WATER                  -31.00) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 582 Tm (20/10/2023  TRANSFER FROM ALEX             45.00) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 569 Tm (22/10/2023  SPOTIFY PREMIUM               -10.99) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 556 Tm (24/10/2023  NORTHERN ELECTRIC             -52.10) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 543 Tm (27/10/2023  LOCAL BOOKSHOP                -12.50) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 517 Tm (End of statement) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000210 00000 n 
+0000000310 00000 n 
+0000000446 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2125
+%%EOF

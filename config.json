@@ -1,0 +1,31 @@
+{
+  "categoryKeywords": {
+    "Groceries": [
+      "TESCO",
+      "ASDA",
+      "SAINSBURY",
+      "LIDL",
+      "ALDI",
+      "MORRISONS",
+      "WAITROSE"
+    ],
+    "Transport": [
+      "UBER",
+      "TFL",
+      "TRAINLINE",
+      "NATIONAL RAIL"
+    ],
+    "Entertainment": [
+      "NETFLIX",
+      "SPOTIFY",
+      "DISNEY",
+      "CINEMA"
+    ],
+    "Utilities": [
+      "ELECTRIC",
+      "WATER",
+      "GAS",
+      "BROADBAND"
+    ]
+  }
+}
